@@ -2,7 +2,10 @@
 <html lang="hu">
 <meta charset="utf-8">
 <link rel="stylesheet" href="styles.css">
+<head>
 <title>Jani utazós web site-ja</title>
+</head>
+<body>
     <div id="felso">
         <h1>Jani utazós web site-ja</h1>
     </div>
@@ -24,4 +27,5 @@
         <div class="clear"></div>
     </div>
     <div id="also">&copy; Minden jog fenntartva!</div>
+</body>
 </html>
