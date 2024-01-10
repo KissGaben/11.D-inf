@@ -18,7 +18,7 @@
         </div>
         <div id="tartalom">
             <h2>Párizs, 2004. október</h2>
-            <p>Nem sikerült annyi képet csinálnom, amennyit szerettem volna, mivel a második nap elvesztettem a fényképezőt. Sebaj, mostanra már van egy másik, így <i>Rómát már megörökíthetem</i>!<br>
+            <p>Nem sikerült annyi képet csinálnom, amennyit szerettem volna, mivel a második nap elvesztettem a fényképezőt. Sebaj, mostanra már van egy másik, így Rómát már megörökíthetem!<br>
             A kedvenc helyem egy kis étterem volt, a<b>Le jardin,</b> ahol órákon át el lehet merengeni a kaja és a pia felett. Van weboldaluk is: <a href="http://www.le-jardin.fr">www.le-jardin.fr</a></p>
             <div class="kep_hely galeria"><img src="arcdetriomphe.jpg"><br>Notre Dame</div>
             <div class="kep_hely galeria"><img src="eifle2.jpg"><br>A Diadalív</div>
